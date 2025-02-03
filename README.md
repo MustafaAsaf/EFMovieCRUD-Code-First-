@@ -9,8 +9,6 @@ Veritabanı işlemleri Entity Framework Code First yöntemi ile yönetilmektedir
 ![image](https://github.com/user-attachments/assets/96059c33-9568-4eba-82a4-38d14d8fad31)
 
 
-
-
 ## 📌 Kullanılan Teknolojiler
 *C# ve .NET Framework
 
@@ -33,4 +31,10 @@ Veritabanı işlemleri Entity Framework Code First yöntemi ile yönetilmektedir
 
 
 ## 📷 Ekran Görüntüleri
+
+![image](https://github.com/user-attachments/assets/5e5d12ad-ad0b-4418-8555-7044bba8159e)
+
+![image](https://github.com/user-attachments/assets/2683d964-8744-4a11-85a3-eaa61aa56116)
+
+
 
