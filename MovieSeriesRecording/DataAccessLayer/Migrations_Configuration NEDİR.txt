@@ -1,0 +1,11 @@
+﻿Migrations Klasörü:
+Entity Framework Code First’te, veritabanı şemasındaki değişiklikleri 
+(tablolar, sütunlar, ilişkiler vb.) takip eden ve yöneten dosyaların 
+bulunduğu klasördür. İçinde her bir veritabanı değişikliği için 
+oluşturulan migration (göç) dosyaları bulunur.
+
+Configuration Sınıfı:
+Migrations klasörü içinde bulunan Configuration sınıfı, 
+migration ayarlarını yönetir ve başlangıç verilerini 
+eklemek için kullanılır. Özellikle Seed metodu ile varsayılan 
+verileri eklemek mümkündür.
